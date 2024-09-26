@@ -1,3 +1,5 @@
 
 .gradle/config.properties
 Demure/local.properties
+.gradle
+.idea
