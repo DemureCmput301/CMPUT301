@@ -1,4 +1,5 @@
 package com.example.demure;
 
-public class rectangle {
+public class star extends Shape {
+
 }
